@@ -1,0 +1,22 @@
+{
+  "name": "swiftLibTest",
+  "version": "0.1.0",
+  "summary": "A short description of swiftLibTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/k.siddu0211@gmail.com/swiftLibTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "k.siddu0211@gmail.com": "k.siddu0211@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/k.siddu0211@gmail.com/swiftLibTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "swiftLibTest/Classes/**/*"
+}

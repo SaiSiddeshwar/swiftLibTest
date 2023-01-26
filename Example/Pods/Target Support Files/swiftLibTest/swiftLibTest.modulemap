@@ -1,0 +1,6 @@
+framework module swiftLibTest {
+  umbrella header "swiftLibTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

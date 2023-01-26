@@ -1,0 +1,16 @@
+PODS:
+  - swiftLibTest (0.1.0)
+
+DEPENDENCIES:
+  - swiftLibTest (from `../`)
+
+EXTERNAL SOURCES:
+  swiftLibTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  swiftLibTest: 43e2aec7b46e0ecaf6b1086f7fb8226693faf3fb
+
+PODFILE CHECKSUM: 71c613c0acdd1c65bd3b09bb217b59f5947c6118
+
+COCOAPODS: 1.11.3
