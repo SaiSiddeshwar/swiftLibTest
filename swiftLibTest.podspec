@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'swiftLibTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of swiftLibTest.'
+  s.summary          = 'This is a meaning full summry of my pod'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,20 +21,20 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/k.siddu0211@gmail.com/swiftLibTest'
+  s.homepage         = 'https://github.com/SaiSiddeshwar/swiftLibTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'k.siddu0211@gmail.com' => 'k.siddu0211@gmail.com' }
-  s.source           = { :git => 'https://github.com/k.siddu0211@gmail.com/swiftLibTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/SaiSiddeshwar/swiftLibTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '14.0'
 
   s.source_files = 'swiftLibTest/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'swiftLibTest' => ['swiftLibTest/Assets/*.png']
-  # }
+#   s.resource_bundles = {
+#     'swiftLibTest' => ['swiftLibTest/Assets/*.png']
+#   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
